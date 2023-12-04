@@ -39,7 +39,7 @@ header.navbar-container {
   }
   
   header.navbar-container .nav-list li:hover a {
-    background-color: #F78CA2;
+    background-color: #ff8800;
     color: white;
   }
 
